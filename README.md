@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on building scalable full-stack applications and strengthening my backend and system design skills, while looking to collaborate on impactful projects in full-stack development and AI/ML. I’m seeking help with advanced system design concepts and breaking into strong product-based roles. At the moment, I’m learning cloud technologies and sharpening my Data Structures & Algorithms skills. You can ask me about Java, DSA, React, Node.js, REST APIs, and end-to-end project development. Fun fact—I’ve solved 3000+ DSA problems and enjoy turning complex ideas into simple, working solutions.<br>
+I’m currently working on building scalable full-stack applications and strengthening my backend and system design skills, while looking to collaborate on impactful projects in full-stack development and AI/ML. I’m seeking help with advanced system design concepts and breaking into strong product-based roles. At the moment, I’m learning cloud technologies and sharpening my Data Structures & Algorithms skills. You can ask me about Java, DSA, React, Node.js, REST APIs, and end-to-end project development. Fun fact—I’ve solved 300+ DSA problems and enjoy turning complex ideas into simple, working solutions.<br>
 
 
 ## 🌐 Socials:
