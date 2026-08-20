@@ -1,86 +1,54 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100%">
+# Sumit Verma
 
-<br>
+**Computer Science Student · Full-Stack & Java Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1800&pause=900&color=F9F002&background=0D0221&center=true&vCenter=true&repeat=false&width=800&height=90&lines=SUMIT+VERMA" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&duration=2500&pause=600&color=00F0FF&center=true&vCenter=true&width=600&lines=NETRUNNER+%2F%2F+FULL-STACK;CLASS%3A+SOFTWARE+ENGINEER;BUILD%3A+JAVA+%2B+MERN+HYBRID;STATUS%3A+ONLINE" />
+[![Email](https://img.shields.io/badge/-sumitverma191105@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitverma191105@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Sumit191105-181717?style=flat-square&logo=github)](https://github.com/Sumit191105)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 
 </div>
 
 <br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-CLASS-000000?style=for-the-badge&labelColor=F9F002&color=000000" />
-<img src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&labelColor=000000&color=F9F002" />
-&nbsp;
-<img src="https://img.shields.io/badge/-STREET_CRED-000000?style=for-the-badge&labelColor=FF003C&color=000000" />
-<img src="https://img.shields.io/badge/250%2B_DSA_KILLS-000000?style=for-the-badge&labelColor=000000&color=FF003C" />
-</p>
+I'm a Computer Science undergrad at **KIIT, Bhubaneswar** (2022–2026), focused on building efficient, scalable software with a strong grounding in **Data Structures & Algorithms**. I enjoy working across the stack — from Java backends to modern frontend frameworks — and I care about clean, maintainable systems that solve real problems.
+
+<br>
+
+## Skills
+
+**Languages** &nbsp; C · Java · Python
+**Databases** &nbsp; MySQL · PostgreSQL · MongoDB
+**Core CS** &nbsp; Data Structures · Algorithms · OOP · Operating Systems · Computer Networks · DBMS
+**Concepts** &nbsp; System Design Fundamentals · REST APIs · Client-Server Architecture
+**Tools** &nbsp; Git · GitHub · Postman · VS Code
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://skillicons.dev/icons?i=java,c,py,react,nodejs,express,mongodb,mysql,postgres,git,github,postman&theme=light" />
 </div>
 
 <br>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="100%">
+## Achievements
 
-```ansi
-[38;5;226m╔══════════════════════════════════════════════════════════╗[0m
-[38;5;226m║[0m [38;5;51m>> BOOTING V.EXE...[0m                                        [38;5;226m║[0m
-[38;5;226m║[0m [38;5;51m>> LOADING NEURAL_PROFILE : SUMIT_VERMA[0m                    [38;5;226m║[0m
-[38;5;226m║[0m [38;5;46m>> AFFILIATION : KIIT BHUBANESWAR // CLASS OF 2026[0m         [38;5;226m║[0m
-[38;5;226m║[0m [38;5;46m>> ROLE : FULL-STACK ENGINEER // JAVA CORE[0m                 [38;5;226m║[0m
-[38;5;226m║[0m [38;5;201m>> CONNECTION ESTABLISHED. WELCOME, CHOOM.[0m                 [38;5;226m║[0m
-[38;5;226m╚══════════════════════════════════════════════════════════╝[0m
-```
+- 🏆 Finalist, **HackOn with Amazon Season 5** — top-performing team, end-to-end working prototype
+- 🧩 **300+** Data Structures & Algorithms problems solved across platforms
 
-</td>
-</tr>
-</table>
+## Certifications
 
-<br>
-
-<h3 align="center">⚡ LOADOUT // TECH STACK</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,c,py,react,nodejs,express,mongodb,mysql,postgres,git,github&theme=dark&perline=11" />
-</div>
+- Prompt Engineering for ChatGPT — *Vanderbilt University*
+- OpenAI GPTs: Custom AI Assistants — *Vanderbilt University*
+- Generative AI: Prompt Engineering Basics — *IBM*
+- Strategy and Game Theory for Management — *IIM Ahmedabad*
 
 <br>
 
 <div align="center">
-
-| ⚔️ ATTRIBUTE | LEVEL |
-|:---|:---|
-| **BACKEND ENGINEERING** | `████████████████░░░░` 80% |
-| **SYSTEM DESIGN** | `██████████████░░░░░░` 70% |
-| **DSA / ALGORITHMS** | `█████████████████░░░` 85% |
-| **FRONTEND / UI** | `███████████████░░░░░` 75% |
-| **REVERSE ENGINEERING BUGS** | `█████████████████████` 99% |
-
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit191105&show_icons=true&theme=default&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit191105&layout=compact&theme=default&hide_border=true" width="35%" />
 </div>
-
-<br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<sub>Thanks for stopping by — always open to interesting collaborations.</sub>
 </div>
-
-<h3 align="center">📡 SIGNAL // GET IN TOUCH</h3>
-
-<p align="center">
-<a href="mailto:sumitverma191105@gmail.com"><img src="https://img.shields.io/badge/-TRANSMIT_MAIL-F9F002?style=for-the-badge&logo=gmail&logoColor=black&labelColor=F9F002" /></a>
-<a href="https://github.com/Sumit191105"><img src="https://img.shields.io/badge/-REPO_ARCHIVE-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=00F0FF" /></a>
-</p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF003C,100:F9F002&height=100&section=footer" width="100%"/>
-</div>
-
-<p align="center"><sub>&gt; WAKE THE F*CK UP, SAMURAI. WE HAVE CODE TO SHIP.</sub></p>
