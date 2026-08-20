@@ -35,19 +35,8 @@ I'm a Computer Science undergrad at **KIIT, Bhubaneswar** (2022–2026), focused
 - 🏆 Finalist, **HackOn with Amazon Season 5** — top-performing team, end-to-end working prototype
 - 🧩 **300+** Data Structures & Algorithms problems solved across platforms
 
-## Certifications
 
-- Prompt Engineering for ChatGPT — *Vanderbilt University*
-- OpenAI GPTs: Custom AI Assistants — *Vanderbilt University*
-- Generative AI: Prompt Engineering Basics — *IBM*
-- Strategy and Game Theory for Management — *IIM Ahmedabad*
 
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sumit191105&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit191105&layout=compact&theme=default&hide_border=true" width="35%" />
-</div>
 
 <div align="center">
 <sub>Thanks for stopping by — always open to interesting collaborations.</sub>
