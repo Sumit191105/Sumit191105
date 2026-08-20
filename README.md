@@ -1,14 +1,110 @@
-# 💫 About Me:
-I’m currently working on building scalable full-stack applications and strengthening my backend and system design skills, while looking to collaborate on impactful projects in full-stack development and AI/ML. I’m seeking help with advanced system design concepts and breaking into strong product-based roles. At the moment, I’m learning cloud technologies and sharpening my Data Structures & Algorithms skills. You can ask me about Java, DSA, React, Node.js, REST APIs, and end-to-end project development. Fun fact—I’ve solved 300+ DSA problems and enjoy turning complex ideas into simple, working solutions.<br>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=650&lines=SUMIT+VERMA;%3E+SYSTEM_ARCHITECT;%3E+FULL_STACK_ENGINEER;%3E+STATUS%3A+ONLINE" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitverma1911/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitverma191105@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sumit191105&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sumit191105&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sumit191105&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Neon Divider](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
+</div>
+
+<table align="center">
+<tr><td>
+
+```
+╔══════════════════════════════════════════╗
+║  IDENTITY MODULE                          ║
+╠══════════════════════════════════════════╣
+║  NAME     : Sumit Verma                   ║
+║  ROLE     : CS Undergrad / Full-Stack Dev ║
+║  BASE     : KIIT, Bhubaneswar (2022-2026) ║
+║  CGPA     : 7.41                          ║
+║  STATUS   : Actively Building             ║
+╚══════════════════════════════════════════╝
+```
+
+</td></tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_POWERED_BY-JAVA-FF00FF?style=for-the-badge&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/⚡_STACK-MERN-00FFFF?style=for-the-badge&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/⚡_DSA-250%2B_SOLVED-39FF14?style=for-the-badge&labelColor=0D0221" />
+</p>
+
+---
+
+<h3 align="center">🧬 CORE_MODULES.exe</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,c,py,react,nodejs,express,mongodb,mysql,postgres,git,github,postman,vscode&theme=dark" />
+</div>
+
+```yaml
+languages: [C, Java, Python]
+databases: [MySQL, PostgreSQL, MongoDB]
+core_systems: [DSA, OOP, Operating Systems, Computer Networks, DBMS]
+protocols: [REST_API, Client-Server_Architecture, System_Design_Fundamentals]
+utilities: [Git, GitHub, Postman, VS_Code]
+```
+
+---
+
+<h3 align="center">🛰️ MISSION_LOG</h3>
+
+> **[2025.06 — 2025.07]** `JAVA_CUM_RESEARCH_DEVELOPER_INTERN` @ Brillovate Pvt. Ltd.
+> ↳ Executed Java-based dev ops · researched technical protocols · optimized backend logic
+
+> **[2024.08 — 2024.09]** `WEB_DEVELOPMENT_INTERN` @ InternPe
+> ↳ Deployed landing pages & interactive tools using HTML/CSS/JS
+
+---
+
+<h3 align="center">💾 DEPLOYED_BUILDS</h3>
+
+<table align="center">
+<tr>
+<td>🟢 <b>CuraSys HMS</b> <sub>[LIVE]</sub></td>
+<td>React · Node.js · Express · MongoDB — real-time Emergency SOS grid, deployed via Netlify + Render + Atlas</td>
+</tr>
+<tr>
+<td>🔒 <b>Secret Image Sharing System</b></td>
+<td>(k,n)-threshold encryption over GF(2⁸) · optimized Vandermonde inversion · SHA-256 tamper detection</td>
+</tr>
+<tr>
+<td>🧬 <b>Survival Prediction Engine</b></td>
+<td>ML pipeline for post-transplant survival · feature engineering · risk visualization</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/Sumit191105">🔗 ACCESS_REPOSITORY_ARCHIVE</a></p>
+
+---
+
+<h3 align="center">🏆 ACHIEVEMENT_UNLOCKED</h3>
+
+```diff
++ [FINALIST] HackOn with Amazon Season 5 — top-performing team // full prototype shipped
++ [CERTIFIED] Prompt Engineering for ChatGPT — Vanderbilt University
++ [CERTIFIED] OpenAI GPTs: Custom AI Assistants — Vanderbilt University
++ [CERTIFIED] Generative AI: Prompt Engineering Basics — IBM
++ [CERTIFIED] Strategy and Game Theory for Management — IIM Ahmedabad
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit191105&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit191105&theme=radical&hide_border=true&background=0D0221" width="48%" />
+
+<br><br>
+
+### 📡 ESTABLISH_CONNECTION
+
+[![Gmail](https://img.shields.io/badge/-TRANSMIT_EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221)](mailto:sumitverma191105@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Sumit191105-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/Sumit191105)
+
+![Neon Divider](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+
+</div>
