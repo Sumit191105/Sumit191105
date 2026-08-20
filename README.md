@@ -1,68 +1,86 @@
 <div align="center">
 
-# 👋 Hey, I'm Sumit.
+<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100%">
 
-### *I turn coffee, curiosity, and a lot of DSA problems into working software.*
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Java+Enthusiast;CS+Undergrad+%40+KIIT;Building+one+project+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1800&pause=900&color=F9F002&background=0D0221&center=true&vCenter=true&repeat=false&width=800&height=90&lines=SUMIT+VERMA" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&duration=2500&pause=600&color=00F0FF&center=true&vCenter=true&width=600&lines=NETRUNNER+%2F%2F+FULL-STACK;CLASS%3A+SOFTWARE+ENGINEER;BUILD%3A+JAVA+%2B+MERN+HYBRID;STATUS%3A+ONLINE" />
 
 </div>
 
 <br>
 
-## 📖 My Story So Far
-
-Somewhere between **Data Structures**, **late-night debugging sessions**, and building things that actually *work*, I found what I love doing — turning ideas into real, usable software.
-
-I'm currently a **Computer Science undergrad at KIIT, Bhubaneswar** (Class of 2026), and along the way I've picked up a habit of building things that solve real problems: a **hospital management system** with a real-time SOS feature, a **cryptographic image-sharing system** built from scratch using finite field math, and a **machine learning pipeline** that helps predict patient outcomes.
-
-I like the full picture — from designing REST APIs to making the frontend feel right — and I'm always looking for the next interesting problem to chase.
-
-<br>
-
-## 🧩 Chapters of My Journey
-
-**🏢 Java cum Research Developer Intern** — *Brillovate Pvt. Ltd.* (Jun–Jul 2025)
-Dove into Java-based development, researched technical concepts, and helped debug and optimize backend logic — a crash course in writing code that actually holds up.
-
-**🌐 Web Development Intern** — *InternPe* (Aug–Sep 2024)
-Where I first fell in love with frontend — building landing pages and interactive tools, and learning that good UX is as much about restraint as it is about design.
-
-<br>
-
-## 🛠️ Things I've Built
-
-**🏥 CuraSys HMS** *(Live)* — A full-stack hospital management platform with React, Node.js, Express, and MongoDB — featuring a real-time **Emergency SOS system** because some things can't wait for a page reload.
-
-**🔐 Verifiable Secret Image Sharing System** — What started as curiosity about cryptography turned into a full (k, n) threshold secret-sharing system over GF(2⁸), complete with SHA-256 tamper detection and an optimized matrix-inversion approach that made reconstruction genuinely fast.
-
-**🩺 Post-Transplant Survival Prediction** — A machine learning pipeline built to help understand what factors matter most in post-transplant patient outcomes — proof that code can matter beyond the terminal.
-
-<br>
-
-## ⚡ My Toolkit
+<p align="center">
+<img src="https://img.shields.io/badge/-CLASS-000000?style=for-the-badge&labelColor=F9F002&color=000000" />
+<img src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&labelColor=000000&color=F9F002" />
+&nbsp;
+<img src="https://img.shields.io/badge/-STREET_CRED-000000?style=for-the-badge&labelColor=FF003C&color=000000" />
+<img src="https://img.shields.io/badge/250%2B_DSA_KILLS-000000?style=for-the-badge&labelColor=000000&color=FF003C" />
+</p>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,c,py,react,nodejs,express,mongodb,mysql,postgres,git,github,postman,vscode" />
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 </div>
 
 <br>
 
-## 🏁 Milestones
+<table align="center" width="100%">
+<tr>
+<td align="center" width="100%">
 
-- 🏆 **Finalist, HackOn with Amazon Season 5** — built a full working prototype with a team that punched above its weight
-- 🧠 **250+ DSA problems solved** — because muscle memory matters when it's 2 AM and the deadline is real
-- 🎓 Certified in Prompt Engineering (Vanderbilt ×2), Generative AI (IBM), and Strategy & Game Theory (IIM Ahmedabad)
+```ansi
+[38;5;226m╔══════════════════════════════════════════════════════════╗[0m
+[38;5;226m║[0m [38;5;51m>> BOOTING V.EXE...[0m                                        [38;5;226m║[0m
+[38;5;226m║[0m [38;5;51m>> LOADING NEURAL_PROFILE : SUMIT_VERMA[0m                    [38;5;226m║[0m
+[38;5;226m║[0m [38;5;46m>> AFFILIATION : KIIT BHUBANESWAR // CLASS OF 2026[0m         [38;5;226m║[0m
+[38;5;226m║[0m [38;5;46m>> ROLE : FULL-STACK ENGINEER // JAVA CORE[0m                 [38;5;226m║[0m
+[38;5;226m║[0m [38;5;201m>> CONNECTION ESTABLISHED. WELCOME, CHOOM.[0m                 [38;5;226m║[0m
+[38;5;226m╚══════════════════════════════════════════════════════════╝[0m
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## 📬 Let's Talk
+<h3 align="center">⚡ LOADOUT // TECH STACK</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,c,py,react,nodejs,express,mongodb,mysql,postgres,git,github&theme=dark&perline=11" />
+</div>
+
+<br>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-sumitverma191105@gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitverma191105@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Sumit191105-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumit191105)
-
-*Currently open to interesting problems, good teams, and anything that pushes me to build something new.*
+| ⚔️ ATTRIBUTE | LEVEL |
+|:---|:---|
+| **BACKEND ENGINEERING** | `████████████████░░░░` 80% |
+| **SYSTEM DESIGN** | `██████████████░░░░░░` 70% |
+| **DSA / ALGORITHMS** | `█████████████████░░░` 85% |
+| **FRONTEND / UI** | `███████████████░░░░░` 75% |
+| **REVERSE ENGINEERING BUGS** | `█████████████████████` 99% |
 
 </div>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+</div>
+
+<h3 align="center">📡 SIGNAL // GET IN TOUCH</h3>
+
+<p align="center">
+<a href="mailto:sumitverma191105@gmail.com"><img src="https://img.shields.io/badge/-TRANSMIT_MAIL-F9F002?style=for-the-badge&logo=gmail&logoColor=black&labelColor=F9F002" /></a>
+<a href="https://github.com/Sumit191105"><img src="https://img.shields.io/badge/-REPO_ARCHIVE-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=00F0FF" /></a>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF003C,100:F9F002&height=100&section=footer" width="100%"/>
+</div>
+
+<p align="center"><sub>&gt; WAKE THE F*CK UP, SAMURAI. WE HAVE CODE TO SHIP.</sub></p>
