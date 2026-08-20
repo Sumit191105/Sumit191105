@@ -13,11 +13,8 @@
 - 🔭 I’m currently studying **Computer Science at Kalinga Institute of Industrial Technology**
 - 🌱 I’m currently honing my skills in **Basic System Design and Client-Server Architecture**
 - 👯 I’m looking to collaborate on **Java and Full-Stack Web Applications**
-- 👨‍💻 I have solved **250+ Data Structures and Algorithms problems across platforms**
 - 💬 Ask me about **Java, REST APIs, OOPs, and DBMS**
 - 📫 How to reach me: **sumitverma191105@gmail.com**
-- 📄 Know about my experiences in my [Resume](resume_sumit.pdf)
-- ⚡ Fun fact: I was a **Finalist at HackOn with Amazon Season 5**
 
 ---
 
@@ -31,23 +28,10 @@
 
 ---
 
-## 💼 Experience
-
-- **Java cum Research Developer Intern** | *Brillovate Pvt. Ltd.* (Jun 2025 - Jul 2025)
-  - Worked on Java-based development focusing on efficient, scalable solutions and analyzed software components using core Java and OOP principles.
-- **Web Development Intern** | *InternPe* (Aug 2024 - Sept 2024)
-  - Developed multiple web-based applications using HTML, CSS, and JavaScript, focusing on functionality, layout design, and user experience.
-
----
-
 ## 🏆 Achievements & Certifications
 
 - 🥇 **Finalist:** HackOn with Amazon Season 5 (Top-performing team; built an end-to-end working prototype)
-- 👨‍💻 **Problem Solving:** Solved 250+ Data Structures and Algorithms problems across platforms
-- 📜 **Certifications:** 
-  - Prompt Engineering for ChatGPT & OpenAI GPTs (Vanderbilt University)
-  - Generative AI: Prompt Engineering Basics (IBM)
-  - Strategy and Game Theory for Management (IIM Ahmedabad)
+- 👨‍💻 **Problem Solving:** Solved 350+ Data Structures and Algorithms problems across platforms
 
 ---
 
