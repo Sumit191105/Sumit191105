@@ -4,7 +4,7 @@
 <h3 align="center">Computer Science student with strong foundation in Data Structures and Algorithms. Skilled in developing efficient solutions using Java and modern frontend frameworks.</h3>
 <h3 align="center">Software Development | Full-Stack | Data Structures & Algorithms</h3>
 
-<img align="right" alt="Coding" height="300" width="400" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/737340/extras/WildLight_2x_Short.gif?t=1682704059">
+
 
 
 
