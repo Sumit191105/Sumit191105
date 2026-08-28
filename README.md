@@ -6,9 +6,7 @@
 
 <img align="right" alt="Coding" height="300" width="400" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/737340/extras/WildLight_2x_Short.gif?t=1682704059">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sumit191105&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 - 🔭 I’m currently studying **Computer Science at Kalinga Institute of Industrial Technology**
 - 🌱 I’m currently honing my skills in **Basic System Design and Client-Server Architecture**
